@@ -348,4 +348,4 @@ def main(azs, region, keyid, secret, cidr, owner, env):
 
 
 if __name__ == "__main__":
-    main(azs=3, region='ap-southeast-2', keyid='AKIAIOQJDVBKPWRBTZ4Q', secret='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', cidr='10.64.0.0/22', owner='merps', env='tst')
+    main(azs=, region='', keyid='', secret='', cidr='', owner='', env='')
